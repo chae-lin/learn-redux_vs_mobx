@@ -1,0 +1,4 @@
+1. npm init
+2. npm i redux
+3. node index 입력시 console.log 찍어둔 사항이 출력된다.
+    (index2일 경우: node index2)
